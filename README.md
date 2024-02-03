@@ -18,9 +18,6 @@
 <img src="https://img.shields.io/github/forks/doenerium69/doenerium?color=brightgreen">
 </p>
 
-<p align="center">
-  Telegram server: https://t.me/doenerium
- </p>
 
 ## 🌐 〢 Content
 
