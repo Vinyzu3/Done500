@@ -91,30 +91,125 @@ properties: {
 > ⚡ Coinomi
 > 🦊 MetaMask
 >
-> Browser (Chrome, Opera, Firefox, OperaGX, Edge, Brave, Yandex) -
-> Passwords, Cookies, Autofill & History (Searches for specific keywords such as PayPal, Coinbase etc. in them)
->
-> Screenshot(s)
->
-> Telegram Session stealer
->
-> FTP stealer (FileZilla)
->
-> Minecraft Session stealer & validator
-> 
-> Instagram Session stealer & validator
-> 
-> Roblox Session stealer & validator
->
-> Steam Session stealer & validator
->
-> TikTok Session stealer & validator
->
-> Twitter Session stealer & validator
->
-> Reddit Session stealer & validator
->
-> Growtopia save.dat stealer
+### Sample Features (81):
+- Check internet Connexion Before Stealing
+- Anti Spam
+- Steal Epicgame
+- Steal Growtopia
+- Steal Wallets App
+- Steal Wallet Extensions
+- Bypass TokenProtector
+- Bypass BetterDiscord 
+- Inject Into Exodus
+- Inject Into Atomic
+- Inject Into Discord
+- Crypto Address Swaper
+- Discord Token Grabber (for all apps)
+- Steal Launcher battlenet 
+- Steal EpicGames 
+- Steal RiotGames
+- Steal Skype
+- Steal WhatsApp
+- Steal Termius
+- Steal MobaXterm
+- Steal GOG Galaxy
+- Steal rockstar games
+- Steal EA App (Origin)
+- Steal Signal app
+- VBS re inject at startup
+- Steal System Informations
+- Anti Debug | Anti Firewall | Anti-VM
+- Debug Killer (Kill task gestionary/CMD)
+- Take a Screenshot
+- Add iself to startup
+- Steal Ubisoft
+- Steal NationGlory login
+- Steal NordVPN Files
+- Steal OpenVPN Files
+- Steal Mullvad Files
+- Steal ProtonVPN Files
+- Steal Exodus | Metamask Passphrase & password
+- Steal Roblox cookies 
+- Open a Fake Error 
+- Parse All Bots & Guilds owner|admin & UHQ Friends 
+- Steal Sensitives Files
+- Steal Passwords/cookies/credits cards/autofill
+- Steal WinSCP Login
+- Steal Filezilla recent servers
+- Steal Putty recent servers
+- Steal Shadow Access
+- Steal TotalCommander recent servers
+- Steal Telegram Files
+- Steal Pigdin Files
+- Steal Tox Files
+- Steal ICQ Files 
+- Steal Webcam Picture
+- upload on transfer if gofile is down
+- steal in other disk usb/network 
+- ask admin with "CMD.exe" name + verified editor 
+- Steal antivirus installed 
+- Disable task manager 
+- Disable Windows defender 
+- Chromium based browsers Extensions Injector
+- get potential passwords discord
+- Steal Minecraft Files
+- Steal Steam Files
+
+### Sessions Stealed & detailed (6):
+
+Minecraft Sessions, Twitter Sessions, Steam Session, Instagram Sessions, Tiktok Sessions, Reddit Sessions, Roblox Sessions,
+
+### Extensions Stealed (82):
++ Trust Wallet, Jaxx Liberty, Atomic Wallet, Electrum, Mycelium, Coinomi, GreenAddress, Edge, BRD, Samourai Wallet, Airbitz, Trezor, Ledger Live, Ledger Wallet, YubiKey, Digital Bitbox, Google Authenticator, Microsoft Authenticator, Authy, Duo Mobile, OTP Auth, Dashlane, FreeOTP, Aegis Authenticator, LastPass Auth, Keeper, RoboForm, KeePass, KeePassXC, Bitwarden, NordPass, LastPass, CommonKey, Splikity, MicrosoftAutofill, KeePass, KeePassXC, MYKI Password Manager, Browserpass, LastPass, RoboForm Manager, Metamask, Exodus, Sollet, Trezor Password Manager, GAuth Authenticator, EOS Authenticator, Authy, Authenticator, EO.Finance, TronLink, Coinbase, Jaxx Liberty, Guarda, Math, Binance, Nifty, Yoroi, EQUAL, BitApp, iwallet, Wombat, MEW CX, Guild, Ronin, NeoLine, Clover, Liquality, Terra Station, Keplr, Coin98, ZilPay, Hycon Lite Client, Nash, Steem Keychain, BitClip, DAppPlay, Auro, Polymesh, ICONex, Nabox, KHC, Temple, TezBox, Cyano, Byone, OneKey, Leaf, Dashlane, NordPass
+
+### Chrome Injection (4):
+- Log New cookies
+- Log new history
+- Log all form key 
+- Snipe Steam Guard
+
+### Mullvad Injection (3):
+- New Account logged
+- New Account created 
+- New Launch
+
+
+### Atomic Injection (3):
+- Log New Password
+- Log Password Changing
+- Log New Passphrase
+
+### Exodus Injection (3):
+- Log New Password
+- Log Password Changing
+- Log New Passphrase
+
+### Discord Injection (10):
+- Bypass Discord Update/Re-Install 
+- Discord QR code disabler 
+- Discord 2FA disabler 
+- Disable Discord Email notification 
+- Auto Discord Mail Changer 
+- Discord Backups Codes Stealer 
+- Discord New Passwords 
+- Discord New Login 
+- Discord New Credits Cards 
+- Discord New Emails
+
+### Browsers Stealed (44) all profils:
++ Firefox, Waterfox, Cyberfox, BlackHaw, IceDragon, Pale Moon, Thunderbird, Seamonkey, Iridium, Yandex, Vivaldi, Uran, KMelon, Maxthon3, liebao, Coowon, Sleipnir5, ChromePlus, Superbird, Rafotech, SaferTechnologies, Suhba, TorBrowser, ElementsBrowser, CocCoc, GoBrowser, QIP Surf, RockMelt, Nichrome, Bromium, Comodo, Xpom, Chedot, 360Browser, Opera, OperaGX, EpicPrivacy, ChromeSxS, Sputnik, 7Star, CentBrowser, Orbitum, Kometa, Torch, Amigo
+
+### Build Bots (9):
+- Bind another exe inside NovaSentinel
+- Customize your app description
+- Customize your app name
+- Customize your file version
+- Customize your app compagny name
+- Customize your app license
+- Customize your app author
+- Customize your app icon
+- Customize your Copyright
+
 
 #### Additional
 
