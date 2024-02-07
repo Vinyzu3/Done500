@@ -51,11 +51,7 @@
 >
 > An example would be:
 ```
-properties: {
-    FileDescription: 'Best Game ever',
-    ProductName: 'Best Game ever',
-    LegalCopyright: 'Best Game ever ©️ 2023',
-    OriginalFilename: 'BestGameEverSetup.exe'
+
 }
 
 ```
